@@ -1,17 +1,14 @@
-# app2
+# Favorite Toggle App
 
-A new Flutter project.
+A simple Flutter application that demonstrates how to toggle a favorite (heart) icon using GetX for state management. When the icon is pressed, it switches between an empty heart (`Icons.favorite_border`) and a filled heart (`Icons.favorite`) with a red background.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Toggle between favorite and non-favorite states
+- Uses Getx for reactive state management
+- Responsive UI with `Obx`
+- Red background behind the favorite icon when selected
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# GetX_App
+<img width="495" alt="Getx_app" src="https://github.com/user-attachments/assets/d3371cb5-e47d-4f08-831b-39c20a08a490" />
